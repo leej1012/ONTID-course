@@ -79,7 +79,10 @@ docker run -p 8099:8099 -v /host_mnt/d/docker/signing-server/config/:/config -v 
 
 #### 3.1 注册改造
 
-1. 用户使用 ONT Auth 注册自我管理的`ONT ID` // TODO：下载链接和截图
+1. 用户使用 ONT Auth 注册自我管理的`ONT ID` // TODO：下载链接
+
+![A](./pic/register1.png)
+![A](./pic/register2.png)
 
 2. *传统 web-app 注册流程，账户内容准备。比如，*
 
